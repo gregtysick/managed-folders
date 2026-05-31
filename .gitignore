@@ -1,0 +1,5 @@
+# Ignore editor, OS, and build noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
