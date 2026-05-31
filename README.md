@@ -23,3 +23,7 @@ Created: 2026-05-31
 ## Current status
 
 This repo has been seeded locally and is ready to be published once GitHub access is authenticated on this machine.
+
+## Roadmap
+
+The first public release story will start with a self-contained management system and then grow through a visible version log. See [`docs/versioning-roadmap.md`](docs/versioning-roadmap.md) for the public-safe release shape and cadence.
