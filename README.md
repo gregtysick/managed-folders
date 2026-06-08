@@ -2,7 +2,7 @@
 
 ManagedFolders is the public-facing record of the Agent OS / Project OS idea: folders that are actively managed instead of passively stored.
 
-This repository is the public mirror and roadmap. The private `_Agent_OS` workspace remains the source of truth.
+This repository is the public mirror and roadmap. Private operating workspaces remain the source of truth for implementation details.
 
 Created: 2026-05-31
 
@@ -22,7 +22,7 @@ Created: 2026-05-31
 
 ## Current status
 
-This repo has been seeded locally and is ready to be published once GitHub access is authenticated on this machine.
+This repo is active on GitHub with the initial public roadmap in place. Changes here should stay sanitized and focus on release notes, documentation, and roadmap updates.
 
 ## Roadmap
 

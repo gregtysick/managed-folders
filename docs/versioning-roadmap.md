@@ -1,6 +1,6 @@
 # ManagedFolders Versioning Roadmap
 
-ManagedFolders is being published as a public mirror and roadmap for the private Agent OS / Project OS work in `_Agent_OS`.
+ManagedFolders is being published as a public mirror and roadmap for the private operating-system work behind the project.
 
 ## Release shape
 
@@ -20,7 +20,7 @@ ManagedFolders is being published as a public mirror and roadmap for the private
 - Do not publish personal paths.
 - Do not publish private names or client details.
 - Do not expose local machine-specific configuration.
-- Treat the private `_Agent_OS` workspace as the source of truth and the public repo as a mirror.
+- Treat private operating workspaces as the source of truth and the public repo as a mirror.
 
 ## Working notes
 
