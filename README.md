@@ -22,8 +22,10 @@ Created: 2026-05-31
 
 ## Current status
 
-This repo is active on GitHub with the initial public roadmap in place. Changes here should stay sanitized and focus on release notes, documentation, and roadmap updates.
+This repo is active on GitHub with the initial public roadmap in place. Changes here should stay sanitized and focus on release notes, documentation, roadmap updates, and the visible version log.
+
+Current public tracked version: `1.1`
 
 ## Roadmap
 
-The first public release story will start with a self-contained management system and then grow through a visible version log. See [`docs/versioning-roadmap.md`](docs/versioning-roadmap.md) for the public-safe release shape and cadence.
+The first public release story starts with a self-contained management system and now continues through a visible version log. See [`docs/versioning-roadmap.md`](docs/versioning-roadmap.md) for the public-safe release shape and cadence, and [`docs/version-log.md`](docs/version-log.md) for the tracked version updates.

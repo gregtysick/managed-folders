@@ -4,10 +4,16 @@ ManagedFolders is being published as a public mirror and roadmap for the private
 
 ## Release shape
 
-- `1.0` should introduce the project as a self-contained management system.
-- `1.1` should begin the public versioning log and explain the first visible changes.
-- `1.2` and `1.3` should continue the story as the public record catches up.
+- `1.0` introduced the project as a self-contained management system.
+- `1.1` begins the public versioning log and explains the first visible changes.
+- `1.2` and `1.3` will continue the story as the public record catches up.
 - Later releases should note what changed, what was added, and what is still under development.
+
+## Current version tracking
+
+- Current public tracked version: `1.1`
+- Version updates are recorded in [`docs/version-log.md`](version-log.md).
+- Each version entry should briefly state what changed and why it matters.
 
 ## Release cadence
 
