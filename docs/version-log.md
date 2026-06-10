@@ -2,6 +2,40 @@
 
 This file tracks the visible public versions of the ManagedFolders mirror.
 
+## 2.0-preview
+
+Date: 2026-06-10
+
+Updates:
+
+- Began documenting the ManagedFolders 2.0 operating model.
+- Added public explanation of the Executive, Scribe, Admin/Knowledge, Task Radar, and Project Manager layers.
+- Added the Task Radar concept as the proactive open-loop detection layer.
+- Clarified that the public repo is a sanitized mirror and roadmap, not the private operating workspace.
+
+Notes:
+
+- This is a preview documentation update.
+- Implementation details remain private until they can be safely generalized.
+
+## 2.0
+
+Date: 2026-06-10
+
+Updates:
+
+- Added post-install health reviews as a separate second-pair-of-eyes workflow.
+- Clarified current operating state, candidate-work detection, approved task ownership, records, and durable knowledge boundaries.
+- Kept structured project-management databases optional by managed-folder need.
+- Added verification expectations for generated views and structured records when enabled.
+- Adopted Markdown configuration files with YAML frontmatter for structured, readable configuration.
+- Added repository-readiness and deployment-boundary checks.
+
+Notes:
+
+- Managed folders should be upgraded individually after review.
+- Private implementation details remain outside this public mirror.
+
 ## 1.1
 
 Date: 2026-06-08
