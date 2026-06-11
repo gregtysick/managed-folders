@@ -26,6 +26,7 @@ The goal is small, regular public-safe updates when there is meaningful progress
 ## Current version tracking
 
 - Current public tracked version: `2.0-preview`
+- Current public release note: [`2.0.md`](2.0.md)
 - Version updates are recorded in [`docs/version-log.md`](version-log.md).
 - Each version entry should briefly state what changed and why it matters.
 
