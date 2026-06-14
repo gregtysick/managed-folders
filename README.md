@@ -31,7 +31,7 @@ ManagedFolders 2.0 is the current direction for active operating folders. The mo
 
 This repo is currently a public mirror and roadmap, not the full private operating workspace.
 
-Current public tracked version: `2.0-preview`
+Current public tracked version: `2.0`
 
 ## What Belongs Here
 
@@ -49,4 +49,4 @@ Current public tracked version: `2.0-preview`
 
 ## Roadmap
 
-The first public release story starts with a self-contained management system and now continues through a visible version log. See [`docs/versioning-roadmap.md`](docs/versioning-roadmap.md) for the public-safe release shape and cadence, [`docs/version-log.md`](docs/version-log.md) for the tracked version updates, [`docs/managedfolders-2.0.md`](docs/managedfolders-2.0.md) for the operating model overview, and [`docs/task-radar.md`](docs/task-radar.md) for the Task Radar concept.
+The first public release story starts with a self-contained management system and now continues through a visible version log. See [`docs/versioning-roadmap.md`](docs/versioning-roadmap.md) for the public-safe release shape and cadence, [`docs/version-log.md`](docs/version-log.md) for the tracked version updates, [`docs/github-versioning.md`](docs/github-versioning.md) for how GitHub versioning works, [`docs/managedfolders-2.0.md`](docs/managedfolders-2.0.md) for the operating model overview, and [`docs/task-radar.md`](docs/task-radar.md) for the Task Radar concept.

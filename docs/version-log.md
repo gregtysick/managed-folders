@@ -2,6 +2,28 @@
 
 This file tracks the visible public versions of the ManagedFolders mirror.
 
+## 2.0
+
+Date: 2026-06-10
+Updated: 2026-06-14
+
+Updates:
+
+- Added post-install health reviews as a separate second-pair-of-eyes workflow.
+- Clarified current operating state, candidate-work detection, approved task ownership, records, and durable knowledge boundaries.
+- Kept structured project-management databases optional by managed-folder need.
+- Added verification expectations for generated views and structured records when enabled.
+- Adopted Markdown configuration files with YAML frontmatter for structured, readable configuration.
+- Added repository-readiness and deployment-boundary checks.
+- Marked `2.0` as the current public tracked version.
+- Added a short GitHub versioning note so commits, tags, and releases are easier to understand.
+
+Notes:
+
+- Managed folders should be upgraded individually after review.
+- Private implementation details remain outside this public mirror.
+- A Git tag or GitHub Release can be added later when a release artifact is needed.
+
 ## 2.0-preview
 
 Date: 2026-06-10
@@ -17,24 +39,6 @@ Notes:
 
 - This is a preview documentation update.
 - Implementation details remain private until they can be safely generalized.
-
-## 2.0
-
-Date: 2026-06-10
-
-Updates:
-
-- Added post-install health reviews as a separate second-pair-of-eyes workflow.
-- Clarified current operating state, candidate-work detection, approved task ownership, records, and durable knowledge boundaries.
-- Kept structured project-management databases optional by managed-folder need.
-- Added verification expectations for generated views and structured records when enabled.
-- Adopted Markdown configuration files with YAML frontmatter for structured, readable configuration.
-- Added repository-readiness and deployment-boundary checks.
-
-Notes:
-
-- Managed folders should be upgraded individually after review.
-- Private implementation details remain outside this public mirror.
 
 ## 1.1
 

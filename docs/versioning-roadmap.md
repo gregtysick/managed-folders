@@ -20,15 +20,17 @@ The goal is small, regular public-safe updates when there is meaningful progress
 - `1.0` introduced the project as a self-contained management system.
 - `1.1` begins the public versioning log and explains the first visible changes.
 - Intermediate `1.x` documentation releases remain optional.
-- `2.0-preview` establishes the current operating model preview, including the active layer model, Task Radar, and the Project Manager boundary.
+- `2.0-preview` established the active layer model, Task Radar, and the Project Manager boundary.
+- `2.0` is the current public tracked operating-model release.
 - Later releases should note what changed, what was added, and what is still under development.
 
 ## Current version tracking
 
-- Current public tracked version: `2.0-preview`
+- Current public tracked version: `2.0`
 - Current public release note: [`2.0.md`](2.0.md)
 - Version updates are recorded in [`docs/version-log.md`](version-log.md).
 - Each version entry should briefly state what changed and why it matters.
+- GitHub commits are automatic history, but version labels, tags, and releases are maintained deliberately. See [`github-versioning.md`](github-versioning.md).
 
 ## Release cadence
 

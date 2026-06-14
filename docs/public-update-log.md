@@ -1,5 +1,11 @@
 # Public Update Log
 
+## 2026-06-14
+
+- Marked `2.0` as the current public tracked version.
+- Added a public-safe note explaining commits, version logs, tags, and GitHub Releases.
+- Kept the update small so the public mirror stays active without exposing private workspace detail.
+
 ## 2026-06-10
 
 - Started documenting the ManagedFolders 2.0 direction.
