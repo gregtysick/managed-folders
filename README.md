@@ -2,7 +2,7 @@
 
 ManagedFolders is a Markdown-first operating system for projects, clients, companies, and personal systems. The core idea is simple: folders should not just store files; they should help manage the work.
 
-This repository is the public mirror and roadmap. Private operating workspaces remain the source of truth for implementation details.
+This repository is the public mirror and roadmap, plus a sterilized SignalDesk outline. Private operating workspaces remain the source of truth for implementation details.
 
 ## What ManagedFolders Does
 
@@ -32,6 +32,11 @@ ManagedFolders 2.0 is the current direction for active operating folders. The mo
 This repo is currently a public mirror and roadmap, not the full private operating workspace.
 
 Current public tracked version: `2.0`
+
+## Repo Shape
+
+- `signaldesk/` - sanitized SignalDesk control-plane outline
+- `docs/` - public ManagedFolders documentation, release notes, and version history
 
 ## What Belongs Here
 

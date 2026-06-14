@@ -4,6 +4,7 @@
 
 - Marked `2.0` as the current public tracked version.
 - Added a public-safe note explaining commits, version logs, tags, and GitHub Releases.
+- Added a sterilized `signaldesk/` outline so the public repo reflects the current control-plane shape without private paths.
 - Kept the update small so the public mirror stays active without exposing private workspace detail.
 
 ## 2026-06-10
