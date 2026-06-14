@@ -32,6 +32,18 @@ The goal is small, regular public-safe updates when there is meaningful progress
 - Each version entry should briefly state what changed and why it matters.
 - GitHub commits are automatic history, but version labels, tags, and releases are maintained deliberately. See [`github-versioning.md`](github-versioning.md).
 
+## Version update workflow
+
+For each public version:
+
+1. Add or update a short release note in `docs/`, such as `1.0.md` or `2.0.md`.
+2. Add the version to `version-log.md`.
+3. Update `docs/README.md` so the release note is easy to find.
+4. Update the root `README.md` only when the current public tracked version changes.
+5. Keep the wording public-safe and avoid private paths, names, and implementation records.
+6. Commit the documentation update.
+7. Add a Git tag or GitHub Release later only when a durable public artifact is needed.
+
 ## Release cadence
 
 - Publish small, sanitized updates on a regular cadence.
