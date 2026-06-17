@@ -17,26 +17,28 @@ A Managed Folder can organize:
 - source evidence
 - dashboards and readable task views
 
-## ManagedFolders 2.0
+## ManagedFolders 2.2
 
-ManagedFolders 2.0 is the current direction for active operating folders. The model is organized around five layers:
+ManagedFolders 2.2 is the current public tracked structure for active operating folders. The model is organized around clear operating layers and a standardized task system:
 
-- Executive: current state, decisions, priorities, open loops, next actions, and project/task management supervision
+- Executive: the current operating layer, with separate folders for current state, candidate detection, and approved project management
 - Scribe: chronological history, journals, communications, logs, imports, source evidence, and how information was learned
 - Admin / Knowledge: durable facts, stable reference knowledge, people and context, systems, operations, and brand or communication standards
-- Task Radar: a proactive open-loop detection layer designed to scan communications, journals, project notes, documents, and daily activity to surface possible tasks, follow-ups, blockers, unresolved questions, and missing decisions before they get lost
-- Project Manager: the structured task and project system that stores approved work, priorities, dependencies, statuses, and work-session context while Markdown remains the readable interface
+- Task Radar: a normally-empty approval gate that scans communications, journals, project notes, documents, and daily activity to surface possible tasks, follow-ups, blockers, unresolved questions, and missing decisions before they get lost
+- Project Manager: the source of truth for approved managed work, priorities, dependencies, statuses, and work-session context while Markdown remains the readable interface
+- Now / Today: small visible execution surfaces for what to do now and what to remember today
 
 ## Public Status
 
 This repo is currently a public mirror and roadmap, not the full private operating workspace.
 
-Current public tracked version: `2.0`
+Current public tracked version: `2.2`
 
 ## Repo Shape
 
 - `signaldesk/` - sanitized SignalDesk control-plane outline
 - `docs/` - public ManagedFolders documentation, release notes, and version history
+- `examples/Example Managed Folder/` - fake public-safe example of the current managed-folder structure
 
 ## What Belongs Here
 
@@ -54,4 +56,4 @@ Current public tracked version: `2.0`
 
 ## Roadmap
 
-The first public release story starts with a self-contained management system and now continues through a visible version log. See [`docs/versioning-roadmap.md`](docs/versioning-roadmap.md) for the public-safe release shape and cadence, [`docs/version-log.md`](docs/version-log.md) for the tracked version updates, [`docs/github-versioning.md`](docs/github-versioning.md) for how GitHub versioning works, [`docs/managedfolders-2.0.md`](docs/managedfolders-2.0.md) for the operating model overview, and [`docs/task-radar.md`](docs/task-radar.md) for the Task Radar concept.
+The first public release story starts with a self-contained management system and now continues through a visible version log. See [`docs/versioning-roadmap.md`](docs/versioning-roadmap.md) for the public-safe release shape and cadence, [`docs/version-log.md`](docs/version-log.md) for the tracked version updates, [`docs/github-versioning.md`](docs/github-versioning.md) for how GitHub versioning works, [`docs/2.2.md`](docs/2.2.md) for the current release note, [`docs/task-system.md`](docs/task-system.md) for the task system overview, [`docs/task-radar.md`](docs/task-radar.md) for the Task Radar concept, and [`examples/Example Managed Folder/`](examples/Example%20Managed%20Folder/) for a fake example folder.

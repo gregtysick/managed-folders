@@ -2,6 +2,39 @@
 
 This file tracks the visible public versions of the ManagedFolders mirror.
 
+## 2.2
+
+Date: 2026-06-17
+
+Updates:
+
+- Standardized the task system around Task Radar, Project Manager, Now, and Today.
+- Clarified that Task Radar is a normally-empty approval gate.
+- Clarified that Project Manager is the source of truth for approved managed work.
+- Clarified that Now and Today are visible execution surfaces, not replacement task stores.
+- Added the Executive work-selection trigger for "what should I work on now?" prompts.
+
+Notes:
+
+- This is a sanitized public summary. Private registry, client, transcript, and task data remain outside the public mirror.
+
+## 2.1
+
+Date: 2026-06-15
+
+Updates:
+
+- Made the current Executive layout explicit: `current_state`, `task_radar`, and `project_manager`.
+- Clarified that Task Radar proposes candidate work and Project Manager stores approved work.
+- Clarified that the Executive layer is not a general document workspace.
+- Added a fake `Example Managed Folder` to show the current public-safe structure without exposing private material.
+- Updated the sanitized SignalDesk outline so documentation lives under `Documentation/`.
+
+Notes:
+
+- This is still a documentation and portfolio mirror, not a turnkey installer.
+- Private implementation details remain outside this public mirror.
+
 ## 2.0
 
 Date: 2026-06-10
