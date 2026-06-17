@@ -2,7 +2,9 @@
 
 This folder is a public-safe outline of the SignalDesk control plane.
 
-It mirrors the structure, not the private workspace contents. No personal paths or private names appear here.
+It mirrors the structure and purpose of the private control plane, not the private workspace contents. No personal paths, private names, client data, or machine-specific details belong here.
+
+Use `_index.md` as the table of contents for this outline.
 
 ## Current Shape
 
@@ -10,13 +12,11 @@ It mirrors the structure, not the private workspace contents. No personal paths 
 _SignalDesk/
   AGENTS.md
   README.md
-  BluePrint.md
   Documentation/
   Governance/
   Installs/
   Engineer/
   Chief_of_Staff/
-  Registry/
 ```
 
 ## Public-Safe Notes
@@ -24,6 +24,11 @@ _SignalDesk/
 - `Documentation/` is for reusable explanations and generic system notes.
 - `Governance/` is for behavior rules and standards.
 - `Installs/` is for payload shape and install guidance.
-- `Engineer/` is for execution records and the live registry lane in the private workspace.
+- `Engineer/` is for execution records and registry maintenance patterns.
 - `Chief_of_Staff/` is for coordination and briefings.
-- `Registry/` is the human-facing mirror in the public model.
+
+## Boundary
+
+This outline should feel real enough to explain the system, but it should not mirror private records.
+
+Keep examples generic. Keep paths relative. Keep implementation evidence private unless it has been rewritten as public-safe documentation.
